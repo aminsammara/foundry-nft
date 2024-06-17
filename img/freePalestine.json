@@ -1,0 +1,11 @@
+{
+    "name": "Free Palestine",
+    "description": "From the River to the Sea",
+    "image": "ImageURIHere",
+    "attributes": [
+        {
+            "trait_type": "courage",
+            "value": 100
+        }
+    ]
+}
